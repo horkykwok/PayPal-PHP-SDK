@@ -1,6 +1,6 @@
 tests/ export-ignore
-sample/ export-ignore
-docs/ export-ignore
+sample/
+docs/ 
 .coveralls.yml export-ignore
 .editorconfig export-ignore
 .releasinator.rb export-ignore
